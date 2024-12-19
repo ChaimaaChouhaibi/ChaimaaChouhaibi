@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChaimaaChouhaibi.ChaimaaChouhaibi" alt="visitor badge" />
+</p>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&color=213555&size=24&lines=Hi+!,+I'm+Chaimaa+Chouhaibi;I'm+a+Web+Developer;I'm+a+Mobile+App+Developer;Glad+to+have+you+here+!" />
 </div>
@@ -29,3 +34,5 @@
 [![](https://visitcount.itsvg.in/api?id=ChaimaaChouhaibi&icon=7&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
