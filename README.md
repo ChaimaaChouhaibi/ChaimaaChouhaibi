@@ -33,27 +33,49 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=23&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=Technologies+and+Tools+I+use+%F0%9F%92%BB+%3A)
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwindcss,nextjs,react native,laravel,mysql" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,vue,bootstrap,tailwindcss,nextjs,laravel,mysql,php" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github,notion,figma" /><br>
+</div><br>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=23&duration=4000&pause=1000&center=true&vCenter=true&color=000000&repeat=false&width=435&lines=My+Contributions)](https://git.io/typing-svg)
+ <br>
+ 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChaimaaChouhaibi/ChaimaaChouhaibi/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChaimaaChouhaibi&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaChouhaibi&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaChouhaibi&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=23&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=GitHub+Stats+📈+:)
 
-## 🏆 GitHub Trophies
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=ChaimaaChouhaibi&theme=holi&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaChouhaibi&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaChouhaibi&theme=holi&hide_border=true)
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=23&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=GitHub+Trophies+🏆+:)](https://git.io/typing-svg)
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=ChaimaaChouhaibi&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+</div>
+<br>
 
-### ✍️ Random Dev Quote
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=23&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=Random+Dev+Quote+✍️+:)](https://git.io/typing-svg)
+
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChaimaaChouhaibi&limit=5&theme=holi&combine_all_yearly_contributions=true)
-
----
+<div align="right">
+  
 [![](https://visitcount.itsvg.in/api?id=ChaimaaChouhaibi&icon=7&color=1)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
