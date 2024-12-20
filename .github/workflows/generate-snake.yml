@@ -24,4 +24,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
