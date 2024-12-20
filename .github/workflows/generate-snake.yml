@@ -18,9 +18,10 @@ jobs:
         with:
           github_user_name: ChaimaaChouhaibi
           outputs: dist/github-contribution-grid-snake.svg
-
+        
       - name: Push the snake animation
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
