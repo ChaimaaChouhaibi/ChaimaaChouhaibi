@@ -38,15 +38,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github,notion,figma" /><br>
 </div><br>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=23&duration=4000&pause=1000&center=true&vCenter=true&color=000000&repeat=false&width=435&lines=My+Contributions)](https://git.io/typing-svg)
- <br>
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChaimaaChouhaibi/ChaimaaChouhaibi/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
-</div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=23&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=GitHub+Stats+📈+:)
 
@@ -56,6 +47,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaChouhaibi&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaChouhaibi&theme=holi&hide_border=true)
 </div>
+
+<div align="center">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" />
+</div>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=23&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=GitHub+Trophies+🏆+:)](https://git.io/typing-svg)
 <div align="center">
@@ -72,11 +68,15 @@
 </div>
 <br>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=23&pause=1000&color=000000&width=435&center=true&vCenter=tru&lines=Thanks+For+Visiting+!++;Stay+tuned+for+more+updates.)](https://git.io/typing-svg)
+</div>
 <div align="right">
   
 [![](https://visitcount.itsvg.in/api?id=ChaimaaChouhaibi&icon=7&color=1)](https://visitcount.itsvg.in)
-</div>
 
+</div>
 
 
 
