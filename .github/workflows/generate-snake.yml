@@ -19,6 +19,11 @@ jobs:
           github_user_name: ChaimaaChouhaibi
           outputs: dist/github-contribution-grid-snake.svg
 
+      - name: Configure Git user
+        run: |
+          git config --global user.name "Chaimaa Chouhaibi"
+          git config --global user.email "chaimaachouhaibi@gmail.com"
+
       - name: Push the snake animation
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
