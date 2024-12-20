@@ -23,8 +23,8 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config --global user.email "chaimaachouhaibi@gmail.com"
-          git config --global user.name "Chaimaa Chouhaibi"
+          git init
+          git checkout -B output
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Updated snake contribution grid"
-          git push "https://${{ secrets.GH_PAT }}@github.com/ChaimaaChouhaibi/ChaimaaChouhaibi.git" output
+          git push "https://${{ secrets.GH_PAT }}@github.com/ChaimaaChouhaibi/ChaimaaChouhaibi.git" output --force
