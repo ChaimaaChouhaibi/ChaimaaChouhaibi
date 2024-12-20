@@ -33,4 +33,5 @@ jobs:
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Updated snake contribution grid"
           git push "https://${GH_PAT}@github.com/ChaimaaChouhaibi/ChaimaaChouhaibi.git" output --force
+                              
 
