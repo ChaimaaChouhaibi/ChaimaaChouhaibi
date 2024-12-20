@@ -1,9 +1,11 @@
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ChaimaaChouhaibi.ChaimaaChouhaibi" alt="visitor badge" />
+  <img src="https://cdn3.emoji.gg/emojis/20949-stitchlove.png" width="44px" height="44px"  alt="StitchLove">
 </p>
 
 
 <div align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&color=213555&size=24&center=true&vCenter=true&lines=Hi+!,+I'm+Chaimaa+Chouhaibi;I'm+a+Web+Developer;I'm+a+Mobile+App+Developer;Glad+to+have+you+here+!" />
 </div>
 
@@ -71,10 +73,13 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=23&pause=1000&color=000000&width=435&center=true&vCenter=tru&lines=Thanks+For+Visiting+!++;Stay+tuned+for+more+updates.)](https://git.io/typing-svg)
+  
 </div>
+
 <div align="right">
   
 [![](https://visitcount.itsvg.in/api?id=ChaimaaChouhaibi&icon=7&color=1)](https://visitcount.itsvg.in)
+
 
 </div>
 
