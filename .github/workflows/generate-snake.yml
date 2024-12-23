@@ -1,37 +1,37 @@
-name: Generate Snake Animation
+# name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # تشغيل يومياً
-  workflow_dispatch: # لتشغيله يدوياً
+# on:
+#   schedule:
+#     - cron: "0 0 * * *" 
+#   workflow_dispatch: 
 
-jobs:
-  generate:
-    runs-on: ubuntu-22.04
+# jobs:
+#   generate:
+#     runs-on: ubuntu-22.04
 
-    steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v3
+#     steps:
+#       - name: Checkout the repository
+#         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ChaimaaChouhaibi
-          outputs: dist/github-contribution-grid-snake.svg
+#       - name: Generate Snake Animation
+#         uses: Platane/snk@v3
+#         with:
+#           github_user_name: ChaimaaChouhaibi
+#           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Configure Git user
-        run: |
-          git config --global user.name "Chaimaa Chouhaibi"
-          git config --global user.email "chaimaachouhaibi@gmail.com"
+#       - name: Configure Git user
+#         run: |
+#           git config --global user.name "Chaimaa Chouhaibi"
+#           git config --global user.email "chaimaachouhaibi@gmail.com"
 
-      - name: Push the snake animation
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git init
-          git checkout -B output
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Updated snake contribution grid"
-          git push "https://${GH_PAT}@github.com/ChaimaaChouhaibi/ChaimaaChouhaibi.git" output --force
+#       - name: Push the snake animation
+#         env:
+#           GH_PAT: ${{ secrets.GH_PAT }}
+#         run: |
+#           git init
+#           git checkout -B output
+#           git add dist/github-contribution-grid-snake.svg
+#           git commit -m "Updated snake contribution grid"
+#           git push "https://${GH_PAT}@github.com/ChaimaaChouhaibi/ChaimaaChouhaibi.git" output --force
                               
 
