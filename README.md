@@ -44,7 +44,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=23&duration=4000&pause=1000&color=000000&repeat=false&width=435&lines=GitHub+Stats+📈+:)
 
 <div align="center">
-  <span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyabnoun&show_icons=true&locale=en&layout=compact" alt="yahyabnoun" />
+  
 ![](https://github-readme-stats.vercel.app/api?username=ChaimaaChouhaibi&theme=holi&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaChouhaibi&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaChouhaibi&theme=holi&hide_border=true)
